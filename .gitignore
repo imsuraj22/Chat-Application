@@ -1,0 +1,57 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+build/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Visual Studio Code directory
+.vscode/
+
+# Editor configuration
+.editorconfig
+
+# Dependency directory (specific to your project structure)
+public/
+
+# React build output
+build/
+
+# Backend dependency and build directories (adjust based on your project structure)
+server/node_modules/
+server/build/
+
+# MongoDB data directory
+data/
+
+# Temporary files
+.tmp/
+
+# IDE-specific files (e.g., WebStorm, PyCharm)
+.idea/
+*.iml
+
+# Jest coverage directory
+coverage/
+
+# Production build
+dist/
+
+# Ignore any local configuration files
+config.local.js
