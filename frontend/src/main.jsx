@@ -9,7 +9,7 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
-      <AuthcontextProvider>
+      <AuthcontextProvider>z
         <SocketContextProvider>
           <App />
         </SocketContextProvider>
